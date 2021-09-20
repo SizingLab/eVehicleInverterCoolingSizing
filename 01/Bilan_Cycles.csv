@@ -1,0 +1,13 @@
+Indicator,Unit,NEDC,Cycle 1,Cycle 2
+Duration,s,1180.0,2378.0,3180.0
+Max Speed,m/s,33.3,21.6,16.4
+Max Force,N,5888.0,11611.0,12334.0
+Max Power,kW,81.4,76.4,81.0
+Corner power,kW,196.1,250.3,201.8
+Distance,km,11.0,31.7,19.2
+Energy,kJ,8.92E+03,2.52E+04,9.09E+03
+Energy/Distance,kJ/m,809.4,795.7,473.6
+FRMS,N,1232.0,2425.0,2853.0
+Max acceleration,m/s,1.0,2.6,2.7
+Mean Power,kW,0.7,0.3,0.1
+Mean speed,km/h,33.6,48.0,21.7
